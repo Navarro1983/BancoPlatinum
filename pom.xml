@@ -21,7 +21,7 @@
 				<configuration>
 					<webResources>
 						<resource>
-							<directory>build</directory>
+							<directory>target</directory>
 						</resource>
 					</webResources>
 				</configuration>
